@@ -1,0 +1,13 @@
+{
+    "name": "sid-martin/sidmartin-com",
+    "description": "sidmartin.com website",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sid-martin",
+            "email": "36123221+sid-martin@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
