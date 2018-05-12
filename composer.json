@@ -1,13 +1,22 @@
 {
-    "name": "sid-martin/sidmartin-com",
-    "description": "sidmartin.com website",
-    "type": "project",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "sid-martin",
-            "email": "36123221+sid-martin@users.noreply.github.com"
-        }
-    ],
-    "require": {}
+  "name": "sid-martin/sidmartin-com",
+  "description": "sidmartin.com website",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "sid-martin",
+      "email": "36123221+sid-martin@users.noreply.github.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/sid-martin/patrickheck-theme_blank_html5_boilerplate.git"
+    }
+  ],
+  "require": {
+    "sid-martin/patrickheck-theme_blank_html5_boilerplate": "dev-master"
+  }
 }
